@@ -4,7 +4,7 @@
 1. [공식문서](https://deno.land/)
    
 2. 공부한 기록물
-   - [hello world](https://github.com/devinan/deno-example/blob/master/helloworld.ts)
+   - [hello world](https://github.com/seunghyeokleeme/deno-example/blob/master/helloworld.ts)
 
 
 
